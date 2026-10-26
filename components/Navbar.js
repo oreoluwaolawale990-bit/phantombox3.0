@@ -24,7 +24,7 @@ export default function Navbar({ onSearch, searchValue, genres }){
       <div className="flex items-center gap-8">
         <Link href="/" className="flex items-center gap-2">
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-violet-500 to-fuchsia-500 flex items-center justify-center font-bold">P</div>
-          <span className="font-display font-bold text-xl hidden sm:block">PHANTOMBOX v4.1 UNBLOCKED</span>
+          <span className="font-display font-bold text-xl hidden sm:block">PHANTOMBOX</span>
           <span className="text-[9px] bg-emerald-500/20 border border-emerald-500/30 text-emerald-300 px-1.5 py-0.5 rounded-full">LEGAL</span>
         </Link>
         <nav className="hidden lg:flex items-center gap-6 text-[13px] text-zinc-400 font-medium">
